@@ -3,6 +3,6 @@ steps:
   args: ['fetch', '--unshallow', 'origin', 'master']
   id: 'git-fetch'
 
-timeout: 1200s
+timeout: 1202s
 options:
   machineType: N1_HIGHCPU_8
